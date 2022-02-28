@@ -9,7 +9,7 @@ ul{
   padding: 0px;
   list-style: none;
 }
-h1, ul,p{
+h1, h2,h3,h4,h5,ul,p{
   margin:0px;
 
 }
@@ -22,4 +22,7 @@ a{
 img{
   max-width: 100%;
   display: block;
+}
+img [src$=".jpg"]{
+  border-radius: 4px;
 }
