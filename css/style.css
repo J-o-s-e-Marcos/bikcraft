@@ -17,8 +17,10 @@
 @import "./home/depoimento.css";
 
 
-/*Bicicletas listas*/
+/*Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
+
 
 
 /*Seguros*/
